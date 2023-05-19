@@ -69,6 +69,8 @@ Almost C API, excepts:
 - 使用 brew 安装
 ```
 brew install rocksdb
+brew link --overwrite rocksdb
+
 ```
 
 - 引用本仓库：
